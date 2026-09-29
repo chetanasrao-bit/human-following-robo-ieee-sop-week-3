@@ -43,11 +43,8 @@ The ESP32 controls the motors through the L298N motor driver to move the robot t
 
 <table>
   <tr>
-    <td><img src="media/connections.jpeg" width="300"></td>
-  </tr>
-</table>
-
-### ESP32-S3-CAM → L298N
+    <td><img src="media/connectionsweek3.png" width="300"></td>
+    <td>### ESP32-S3-CAM → L298N
 
 | ESP32 Pin | L298N Pin | Function |
 |-----------|-----------|----------|
@@ -56,7 +53,11 @@ The ESP32 controls the motors through the L298N motor driver to move the robot t
 | GPIO 3 | IN2 | Motor A direction |
 | GPIO 14 | IN3 | Motor B direction |
 | GPIO 41 | IN4 | Motor B direction |
-| GPIO 42 | ENB | Motor B PWM |
+| GPIO 42 | ENB | Motor B PWM |</td>
+  </tr>
+</table>
+
+
 
 ## Computer Vision
 
@@ -93,10 +94,13 @@ The camera is positioned so that the person and designated marker remain visible
 <table>
   <tr>
     <td><img src="media/robo3.1.jpeg" width="300"></td>
-    <td><img src="media/robo3.2.jpeg" width="300"></td>
-    <td><img src="media/robo3.3.jpeg" width="300"></td>
+    <td><img src="media/robo3.2.png" width="300"></td>
+    
   </tr>
 </table>
+## Demo
+
+[▶️ Watch Detector Demo](media/detector.mp4)
 
 ## What I Learned
 
