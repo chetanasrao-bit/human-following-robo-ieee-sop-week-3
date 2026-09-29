@@ -98,10 +98,6 @@ The camera is positioned so that the person and designated marker remain visible
   </tr>
 </table>
 
-## Demo
-
-[▶️ Watch Demo Video](media/demo.mp4)
-
 ## What I Learned
 
 - Basic computer vision
@@ -125,5 +121,3 @@ Successfully built and tested a vision-based robot designed to detect a designat
 - Improve tracking under different lighting conditions
 - Reduce camera processing delay
 - Improve movement and turning response
-- Explore more advanced human tracking
-- Add obstacle detection
