@@ -4,7 +4,7 @@ import numpy as np
 # ============================================================
 # >>> EDIT THIS BEFORE RUNNING <
 # ============================================================
-CAMERA_URL = "http://10.110.3.101.8080/video   # <-- CHANGE to YOUR phone's IP Webcam address
+CAMERA_URL = "camera_url"
 # ============================================================
 
 cap = cv2.VideoCapture(CAMERA_URL)
